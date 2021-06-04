@@ -2,4 +2,10 @@
 
 Challenge of responsive grids and animations.
 
-4 june 2021 - Simplon Training lead by Lionel.
+Notes on 4 June 2021:
+
+- Reponsive site working for medium and small screens.
+
+- Content not yet finished
+
+Simplon Training lead by Lionel.
